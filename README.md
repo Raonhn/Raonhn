@@ -11,6 +11,8 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Csharp-690081?style=for-the-badge&logo=Csharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin-FFA500?style=for-the-badge&logo=Kotlin&logoColor=005C84"/>
  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
  </div>
 
